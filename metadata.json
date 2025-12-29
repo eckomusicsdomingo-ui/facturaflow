@@ -1,0 +1,7 @@
+{
+  "name": "FacturaFlow - Registro Inteligente de Ventas",
+  "description": "Una aplicación avanzada para la gestión de ventas que utiliza IA para leer facturas, extraer datos del cliente, productos y totales sin IVA, permitiendo un seguimiento mensual detallado.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
